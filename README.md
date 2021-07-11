@@ -1,8 +1,7 @@
-# wabot-aq
+# Misaka Mikoto Bot
 
-Simple WhatsApp Bot
+![Misaka Clone](https://user-images.githubusercontent.com/87269645/125201929-6c512e80-e29b-11eb-9f70-73c7f1d7a7f9.png)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
