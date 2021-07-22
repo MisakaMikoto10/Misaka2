@@ -14,7 +14,7 @@ apt install imagemagick -y
 git clone https://github.com/MisakaMikoto10/Misaka2
 cd Misaka2
 npm install
-Node .
+npm update
 ```
 
 ---------
